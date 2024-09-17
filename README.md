@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently studying in Moscow State University
-🤔 I’m looking for help with ML/DS
-😄 Pronouns: He/Him
+- 🔭 I’m currently studying in Moscow State University
+- 🤔 I’m looking for help with ML/DS
+- 😄 Pronouns: He/Him
 <!--
 **Kargerior/Kargerior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
